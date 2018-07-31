@@ -1,6 +1,6 @@
 {
   "name": "oneofmyproject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "简小精悍的前端缓存工具，防止内存侧漏",
   "main": "src/index.js",
   "scripts": {
@@ -29,5 +29,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.16.3",
     "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }

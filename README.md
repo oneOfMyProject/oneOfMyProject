@@ -7,6 +7,9 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/oneOfMyProject/oneOfMyProject/releases
+- `npm i oneofmyproject`
+- CDN http://unpkg.com/oneofmyproject/release/bundle.js
 
 ## 快速使用
 
