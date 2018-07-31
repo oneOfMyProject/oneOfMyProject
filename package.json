@@ -1,0 +1,33 @@
+{
+  "name": "oneofmyproject",
+  "version": "0.0.1",
+  "description": "简小精悍的前端缓存工具，防止内存侧漏",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 8881"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneOfMyProject/oneOfMyProject.git"
+  },
+  "keywords": [
+    "https://github.com/oneOfMyProject"
+  ],
+  "author": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Ccache\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D https://github.com/oneOfMyProject",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oneOfMyProject/oneOfMyProject/issues"
+  },
+  "homepage": "https://github.com/oneOfMyProject/oneOfMyProject#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  }
+}
