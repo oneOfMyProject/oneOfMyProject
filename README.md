@@ -1,5 +1,5 @@
 # oneOfMyProject
-星级评分 demo
+星级评分 小demo
 
 ## 简介
 
