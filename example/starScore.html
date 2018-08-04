@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>星级评分</title>
+</head>
+  <style type="text/css">
+		body,ul,li{
+			padding: 0;
+			margin: 0;
+		}
+		li{
+			list-style: none;
+		}
+		.rating{
+			width: 160px;
+            height: 32px;
+			margin: 100px auto;
+		}
+		.rating-item{
+			float: left;
+			width: 32px;
+			height: 32px;
+			background: url(../imgs/star.png) no-repeat;
+			cursor: pointer;
+		}
+</style>
+<body>
+  <ul id="rating1" class="rating">
+    <li class="rating-item" title="很不好"></li>
+    <li class="rating-item" title="不好"></li>
+    <li class="rating-item" title="一般"></li>
+    <li class="rating-item" title="好"></li>
+    <li class="rating-item" title="很好"></li>
+  </ul>
+   
+  <div id="rating2" class="rating">
+    <a href="javascript:;" class="rating-item" title="很不好"></a>
+    <li href="javascript:;" class="rating-item" title="不好"></li>
+    <li href="javascript:;" class="rating-item" title="一般"></li>
+    <li href="javascript:;" class="rating-item" title="好"></li>
+    <li href="javascript:;" class="rating-item" title="很好"></li>
+  </div>
+  
+  <div id="rating3" class="rating">
+    <a href="javascript:;" class="rating-item" title="很不好"></a>
+    <li href="javascript:;" class="rating-item" title="不好"></li>
+    <li href="javascript:;" class="rating-item" title="一般"></li>
+    <li href="javascript:;" class="rating-item" title="好"></li>
+    <li href="javascript:;" class="rating-item" title="很好"></li>
+  </div>
+</body>
+<script src="../release/bundle.js"></script>
+<script src="../libs.js/jquery.min.js"></script>
+<script src="../src/index.js"></script>
+</html>
