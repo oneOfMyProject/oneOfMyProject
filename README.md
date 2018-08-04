@@ -1,5 +1,5 @@
-# oneOfMyProject
-简小精悍的前端缓存工具，防止内存侧漏
+#oneOfMyProject
+星级评分demo
 
 ## 简介
 
