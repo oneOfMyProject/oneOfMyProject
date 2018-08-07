@@ -1,7 +1,7 @@
 {
   "name": "oneofmyproject",
   "version": "0.0.2",
-  "description": "简小精悍的前端缓存工具，防止内存侧漏",
+  "description": "星级评分",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
